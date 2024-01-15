@@ -5,3 +5,4 @@ CoR-SketchAR creates an environment for crowd simulation by recognizing color an
 ![Simulation in Portable Device](CoR-SketchAR.gif)
 
 VIDEO : [https://youtu.be/GdqMsQI_5MQ](https://youtu.be/GdqMsQI_5MQ)
+Paper : [https://www.mdpi.com/2076-3417/12/15/7416](https://www.mdpi.com/2076-3417/12/15/7416)]
